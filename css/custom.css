@@ -1,0 +1,9 @@
+.sub-link:hover {
+    text-decoration: none;
+}
+
+body {
+    background-image: url(../img/bck.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
